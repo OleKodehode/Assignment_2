@@ -52,7 +52,6 @@ section {
   flex-flow: row wrap;
   width: 70%;
   height: 70%;
-  border-radius: 25%;
 }
 
 article {
