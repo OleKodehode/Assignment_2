@@ -1,5 +1,5 @@
 /*  main -> Section .main_container
-    div #sedan_container #suv_container #luxury_container
+    article #sedan_container #suv_container #luxury_container
     img h2 p button #sedan_button #suv_button #luxury_button */
 
 /*  Style guide;
@@ -55,7 +55,7 @@ section {
   border-radius: 25%;
 }
 
-div {
+article {
   display: flex;
   flex-flow: column wrap;
   padding: 20px 40px;
