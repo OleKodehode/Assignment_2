@@ -58,7 +58,7 @@ section {
 article {
   display: flex;
   flex-flow: column wrap;
-  padding: 20px 40px;
+  padding: 20px 75px 40px 50px;
   justify-content: space-around;
   flex: 1;
 }
@@ -73,6 +73,7 @@ p {
   color: hsla(0, 0%, 100%, 0.75);
   font-size: 15px;
   line-height: 2;
+  padding-bottom: 60px;
 }
 
 button {
